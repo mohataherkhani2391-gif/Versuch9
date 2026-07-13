@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+dce21464d214b2b99d5ed786d201c94b .qt/rcc/qrc_Streetplanner_translations.cpp
+c516693911b66bb45405bf46ad275877 CMakeFiles/Streetplanner_autogen
+c516693911b66bb45405bf46ad275877 CMakeFiles/Streetplanner_lrelease
+da70c21322529ae6f0a3015f4bc075ca CMakeFiles/Streetplanner_lupdate
+4d4fe13bf8656fffa055b8a87d88318a Streetplanner_autogen/timestamp
+755429f7e049d8b9aef8b2fbdd0e83e9 Streetplanner_de_DE.qm

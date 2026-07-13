@@ -1,0 +1,11 @@
+set(lupdate_project_file "C:/Users/moham/Documents/Streetplanner/CMakeLists.txt")
+set(lupdate_translations "C:/Users/moham/Documents/Streetplanner/Streetplanner_de_DE.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "C:/Users/moham/Documents/Streetplanner")
+set(lupdate_subproject1_include_paths "C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/include;C:/Qt/6.9.0/mingw_64/include/QtCore;C:/Qt/6.9.0/mingw_64/include;C:/Qt/6.9.0/mingw_64/mkspecs/win32-g++;C:/Qt/6.9.0/mingw_64/include;C:/Qt/6.9.0/mingw_64/include/QtWidgets;C:/Qt/6.9.0/mingw_64/include;C:/Qt/6.9.0/mingw_64/include/QtGui;C:/Qt/6.9.0/mingw_64/include")
+set(lupdate_subproject1_sources "C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;city.h;city.cpp;map.h;map.cpp;abstractmap.cpp;abstractmap.h;street.cpp;street.h;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/Streetplanner_translations.qrc;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_de_DE.qm;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/include/ui_mainwindow.h;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/timestamp;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_de_DE.qm.rule;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.rule;C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen")

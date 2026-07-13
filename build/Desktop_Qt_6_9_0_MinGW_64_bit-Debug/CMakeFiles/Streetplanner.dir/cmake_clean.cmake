@@ -1,0 +1,34 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_Streetplanner_translations.cpp"
+  "CMakeFiles/Streetplanner_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/Streetplanner_autogen.dir/ParseCache.txt"
+  "Streetplanner_autogen"
+  "CMakeFiles/Streetplanner.dir/Streetplanner_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/Streetplanner_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/abstractmap.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/abstractmap.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/city.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/city.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/main.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/main.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/mainwindow.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/mainwindow.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/map.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/map.cpp.obj.d"
+  "CMakeFiles/Streetplanner.dir/street.cpp.obj"
+  "CMakeFiles/Streetplanner.dir/street.cpp.obj.d"
+  "Streetplanner.exe"
+  "Streetplanner.exe.manifest"
+  "Streetplanner.pdb"
+  "Streetplanner_autogen/mocs_compilation.cpp"
+  "Streetplanner_autogen/timestamp"
+  "Streetplanner_de_DE.qm"
+  "libStreetplanner.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Streetplanner.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Streetplanner.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Streetplanner.dir/objects.a @CMakeFiles\Streetplanner.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -DQT_QML_DEBUG -g -mwindows -Wl,--whole-archive CMakeFiles\Streetplanner.dir/objects.a -Wl,--no-whole-archive -o Streetplanner.exe -Wl,--out-implib,libStreetplanner.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Streetplanner.dir\linkLibs.rsp
