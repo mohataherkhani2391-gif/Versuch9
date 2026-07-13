@@ -87,13 +87,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 39,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 31,
+				"line" : 33,
 				"parent" : 0
 			},
 			{
@@ -522,18 +522,21 @@
 				8,
 				9,
 				11,
-				16
+				14,
+				16,
+				18,
+				23
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "Streetplanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "Streetplanner_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Streetplanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "Streetplanner::@6890427a1f51a3e7e1df",
@@ -660,11 +663,11 @@
 			"id" : "Qt6::lrelease::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "Streetplanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "Streetplanner_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Streetplanner_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"paths" : 
@@ -685,7 +688,10 @@
 				8,
 				9,
 				11,
-				16
+				14,
+				16,
+				18,
+				23
 			]
 		},
 		{
@@ -697,39 +703,44 @@
 				7,
 				10,
 				12,
-				17
+				13,
+				17,
+				19,
+				24,
+				25
 			]
 		},
 		{
 			"name" : "Forms",
 			"sourceIndexes" : 
 			[
-				4
+				4,
+				15
 			]
 		},
 		{
 			"name" : "",
 			"sourceIndexes" : 
 			[
-				13,
-				15,
-				18
+				20,
+				22,
+				26
 			]
 		},
 		{
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				14
+				21
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				19,
-				20,
-				21
+				27,
+				28,
+				29
 			]
 		}
 	],
@@ -861,6 +872,72 @@
 			"sourceGroupIndex" : 1
 		},
 		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"path" : "addcitydialog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"compileGroupIndex" : 0,
+			"path" : "addcitydialog.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"path" : "addcitydialog.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"compileGroupIndex" : 0,
+			"path" : "mapio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"path" : "mapio.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"compileGroupIndex" : 0,
+			"path" : "mapionrw.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"backtraces" : 
+			[
+				4
+			],
+			"path" : "mapionrw.h",
+			"sourceGroupIndex" : 1
+		},
+		{
 			"backtrace" : 52,
 			"backtraces" : 
 			[
@@ -908,6 +985,16 @@
 			],
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"backtraces" : 
+			[
+				0
+			],
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Streetplanner_autogen/include/ui_addcitydialog.h",
 			"sourceGroupIndex" : 1
 		},
 		{

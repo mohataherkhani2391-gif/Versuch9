@@ -201,6 +201,7 @@ C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
  C:/Qt/6.9.0/mingw_64/include/QtGui/qtransform.h
  C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs.h
  C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs_win.h
+ C:/Qt/6.9.0/mingw_64/include/QtWidgets/QDialog
  C:/Qt/6.9.0/mingw_64/include/QtWidgets/QGraphicsTextItem
  C:/Qt/6.9.0/mingw_64/include/QtWidgets/QGraphicsView
  C:/Qt/6.9.0/mingw_64/include/QtWidgets/QMainWindow
@@ -627,6 +628,9 @@ C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
  C:/Users/moham/Documents/Streetplanner/CMakeLists.txt
  C:/Users/moham/Documents/Streetplanner/abstractmap.cpp
  C:/Users/moham/Documents/Streetplanner/abstractmap.h
+ C:/Users/moham/Documents/Streetplanner/addcitydialog.cpp
+ C:/Users/moham/Documents/Streetplanner/addcitydialog.h
+ C:/Users/moham/Documents/Streetplanner/addcitydialog.ui
  C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake
  C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/4.4.0/CMakeCXXCompiler.cmake
  C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/4.4.0/CMakeRCCompiler.cmake
@@ -640,4 +644,10 @@ C:/Users/moham/Documents/Streetplanner/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
  C:/Users/moham/Documents/Streetplanner/mainwindow.ui
  C:/Users/moham/Documents/Streetplanner/map.cpp
  C:/Users/moham/Documents/Streetplanner/map.h
+ C:/Users/moham/Documents/Streetplanner/mapio.cpp
+ C:/Users/moham/Documents/Streetplanner/mapio.h
+ C:/Users/moham/Documents/Streetplanner/mapionrw.cpp
+ C:/Users/moham/Documents/Streetplanner/mapionrw.h
+ C:/Users/moham/Documents/Streetplanner/street.cpp
+ C:/Users/moham/Documents/Streetplanner/street.h
 

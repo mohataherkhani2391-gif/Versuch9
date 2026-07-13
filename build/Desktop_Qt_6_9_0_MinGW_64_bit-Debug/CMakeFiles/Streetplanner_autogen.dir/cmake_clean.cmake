@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Streetplanner_autogen"
+  "Streetplanner_autogen/include/ui_addcitydialog.h"
   "Streetplanner_autogen/include/ui_mainwindow.h"
   "Streetplanner_autogen/mocs_compilation.cpp"
   "Streetplanner_autogen/timestamp"

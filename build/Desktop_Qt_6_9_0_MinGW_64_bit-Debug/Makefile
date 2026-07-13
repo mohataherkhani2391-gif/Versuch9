@@ -299,6 +299,30 @@ abstractmap.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/abstractmap.cpp.s
 .PHONY : abstractmap.cpp.s
 
+addcitydialog.obj: addcitydialog.cpp.obj
+.PHONY : addcitydialog.obj
+
+# target to build an object file
+addcitydialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj
+.PHONY : addcitydialog.cpp.obj
+
+addcitydialog.i: addcitydialog.cpp.i
+.PHONY : addcitydialog.i
+
+# target to preprocess a source file
+addcitydialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/addcitydialog.cpp.i
+.PHONY : addcitydialog.cpp.i
+
+addcitydialog.s: addcitydialog.cpp.s
+.PHONY : addcitydialog.s
+
+# target to generate assembly for a file
+addcitydialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/addcitydialog.cpp.s
+.PHONY : addcitydialog.cpp.s
+
 build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.obj: build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj
 .PHONY : build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.obj
 
@@ -419,6 +443,54 @@ map.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/map.cpp.s
 .PHONY : map.cpp.s
 
+mapio.obj: mapio.cpp.obj
+.PHONY : mapio.obj
+
+# target to build an object file
+mapio.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapio.cpp.obj
+.PHONY : mapio.cpp.obj
+
+mapio.i: mapio.cpp.i
+.PHONY : mapio.i
+
+# target to preprocess a source file
+mapio.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapio.cpp.i
+.PHONY : mapio.cpp.i
+
+mapio.s: mapio.cpp.s
+.PHONY : mapio.s
+
+# target to generate assembly for a file
+mapio.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapio.cpp.s
+.PHONY : mapio.cpp.s
+
+mapionrw.obj: mapionrw.cpp.obj
+.PHONY : mapionrw.obj
+
+# target to build an object file
+mapionrw.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj
+.PHONY : mapionrw.cpp.obj
+
+mapionrw.i: mapionrw.cpp.i
+.PHONY : mapionrw.i
+
+# target to preprocess a source file
+mapionrw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapionrw.cpp.i
+.PHONY : mapionrw.cpp.i
+
+mapionrw.s: mapionrw.cpp.s
+.PHONY : mapionrw.s
+
+# target to generate assembly for a file
+mapionrw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/mapionrw.cpp.s
+.PHONY : mapionrw.cpp.s
+
 street.obj: street.cpp.obj
 .PHONY : street.obj
 
@@ -468,6 +540,9 @@ help:
 	@echo ... abstractmap.obj
 	@echo ... abstractmap.i
 	@echo ... abstractmap.s
+	@echo ... addcitydialog.obj
+	@echo ... addcitydialog.i
+	@echo ... addcitydialog.s
 	@echo ... build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.obj
 	@echo ... build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.i
 	@echo ... build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.s
@@ -483,6 +558,12 @@ help:
 	@echo ... map.obj
 	@echo ... map.i
 	@echo ... map.s
+	@echo ... mapio.obj
+	@echo ... mapio.i
+	@echo ... mapio.s
+	@echo ... mapionrw.obj
+	@echo ... mapionrw.i
+	@echo ... mapionrw.s
 	@echo ... street.obj
 	@echo ... street.i
 	@echo ... street.s

@@ -7,6 +7,9 @@ class Street
 {
 public:
     Street(City* first, City* second);
+    void draw(QGraphicsScene& scene, QPen&);
+    City* getFirst();
+    City* getSecond();
 private:
     City* first;
     City* second;

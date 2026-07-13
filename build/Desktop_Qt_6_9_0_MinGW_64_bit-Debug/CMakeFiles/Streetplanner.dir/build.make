@@ -195,11 +195,56 @@ CMakeFiles/Streetplanner.dir/street.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Streetplanner.dir/street.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\moham\Documents\Streetplanner\street.cpp -o CMakeFiles\Streetplanner.dir\street.cpp.s
 
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj: CMakeFiles/Streetplanner.dir/flags.make
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj: CMakeFiles/Streetplanner.dir/includes_CXX.rsp
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj: C:/Users/moham/Documents/Streetplanner/addcitydialog.cpp
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj: CMakeFiles/Streetplanner.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj -MF CMakeFiles\Streetplanner.dir\addcitydialog.cpp.obj.d -o CMakeFiles\Streetplanner.dir\addcitydialog.cpp.obj -c C:\Users\moham\Documents\Streetplanner\addcitydialog.cpp
+
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Streetplanner.dir/addcitydialog.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\moham\Documents\Streetplanner\addcitydialog.cpp > CMakeFiles\Streetplanner.dir\addcitydialog.cpp.i
+
+CMakeFiles/Streetplanner.dir/addcitydialog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Streetplanner.dir/addcitydialog.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\moham\Documents\Streetplanner\addcitydialog.cpp -o CMakeFiles\Streetplanner.dir\addcitydialog.cpp.s
+
+CMakeFiles/Streetplanner.dir/mapio.cpp.obj: CMakeFiles/Streetplanner.dir/flags.make
+CMakeFiles/Streetplanner.dir/mapio.cpp.obj: CMakeFiles/Streetplanner.dir/includes_CXX.rsp
+CMakeFiles/Streetplanner.dir/mapio.cpp.obj: C:/Users/moham/Documents/Streetplanner/mapio.cpp
+CMakeFiles/Streetplanner.dir/mapio.cpp.obj: CMakeFiles/Streetplanner.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Streetplanner.dir/mapio.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Streetplanner.dir/mapio.cpp.obj -MF CMakeFiles\Streetplanner.dir\mapio.cpp.obj.d -o CMakeFiles\Streetplanner.dir\mapio.cpp.obj -c C:\Users\moham\Documents\Streetplanner\mapio.cpp
+
+CMakeFiles/Streetplanner.dir/mapio.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Streetplanner.dir/mapio.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\moham\Documents\Streetplanner\mapio.cpp > CMakeFiles\Streetplanner.dir\mapio.cpp.i
+
+CMakeFiles/Streetplanner.dir/mapio.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Streetplanner.dir/mapio.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\moham\Documents\Streetplanner\mapio.cpp -o CMakeFiles\Streetplanner.dir\mapio.cpp.s
+
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj: CMakeFiles/Streetplanner.dir/flags.make
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj: CMakeFiles/Streetplanner.dir/includes_CXX.rsp
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj: C:/Users/moham/Documents/Streetplanner/mapionrw.cpp
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj: CMakeFiles/Streetplanner.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj -MF CMakeFiles\Streetplanner.dir\mapionrw.cpp.obj.d -o CMakeFiles\Streetplanner.dir\mapionrw.cpp.obj -c C:\Users\moham\Documents\Streetplanner\mapionrw.cpp
+
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Streetplanner.dir/mapionrw.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\moham\Documents\Streetplanner\mapionrw.cpp > CMakeFiles\Streetplanner.dir\mapionrw.cpp.i
+
+CMakeFiles/Streetplanner.dir/mapionrw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Streetplanner.dir/mapionrw.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\moham\Documents\Streetplanner\mapionrw.cpp -o CMakeFiles\Streetplanner.dir\mapionrw.cpp.s
+
 CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj: CMakeFiles/Streetplanner.dir/flags.make
 CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj: CMakeFiles/Streetplanner.dir/includes_CXX.rsp
 CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj: .qt/rcc/qrc_Streetplanner_translations.cpp
 CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj: CMakeFiles/Streetplanner.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj -MF CMakeFiles\Streetplanner.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\rcc\qrc_Streetplanner_translations.cpp.obj.d -o CMakeFiles\Streetplanner.dir\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\rcc\qrc_Streetplanner_translations.cpp.obj -c C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\.qt\rcc\qrc_Streetplanner_translations.cpp
 
 CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.i: cmake_force
@@ -219,6 +264,9 @@ Streetplanner_OBJECTS = \
 "CMakeFiles/Streetplanner.dir/map.cpp.obj" \
 "CMakeFiles/Streetplanner.dir/abstractmap.cpp.obj" \
 "CMakeFiles/Streetplanner.dir/street.cpp.obj" \
+"CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj" \
+"CMakeFiles/Streetplanner.dir/mapio.cpp.obj" \
+"CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj" \
 "CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj"
 
 # External object files for target Streetplanner
@@ -231,6 +279,9 @@ Streetplanner.exe: CMakeFiles/Streetplanner.dir/city.cpp.obj
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/map.cpp.obj
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/abstractmap.cpp.obj
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/street.cpp.obj
+Streetplanner.exe: CMakeFiles/Streetplanner.dir/addcitydialog.cpp.obj
+Streetplanner.exe: CMakeFiles/Streetplanner.dir/mapio.cpp.obj
+Streetplanner.exe: CMakeFiles/Streetplanner.dir/mapionrw.cpp.obj
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_Streetplanner_translations.cpp.obj
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/build.make
 Streetplanner.exe: C:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a
@@ -240,7 +291,7 @@ Streetplanner.exe: C:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/linkLibs.rsp
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/objects1.rsp
 Streetplanner.exe: CMakeFiles/Streetplanner.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable Streetplanner.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Streetplanner.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Streetplanner.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

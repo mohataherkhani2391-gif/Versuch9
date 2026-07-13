@@ -89,16 +89,16 @@ clean: CMakeFiles/Streetplanner_autogen.dir/clean
 # Target rules for target CMakeFiles/Streetplanner.dir
 
 # All Build rule for target.
-CMakeFiles/Streetplanner.dir/all: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 CMakeFiles/Streetplanner.dir/all: CMakeFiles/Streetplanner_autogen.dir/all
+CMakeFiles/Streetplanner.dir/all: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Built target Streetplanner"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 "Built target Streetplanner"
 .PHONY : CMakeFiles/Streetplanner.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Streetplanner.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles 13
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Streetplanner.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles 0
 .PHONY : CMakeFiles/Streetplanner.dir/rule
@@ -108,10 +108,10 @@ Streetplanner: CMakeFiles/Streetplanner.dir/rule
 .PHONY : Streetplanner
 
 # codegen rule for target.
-CMakeFiles/Streetplanner.dir/codegen: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 CMakeFiles/Streetplanner.dir/codegen: CMakeFiles/Streetplanner_autogen.dir/all
+CMakeFiles/Streetplanner.dir/codegen: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner.dir\build.make CMakeFiles/Streetplanner.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12 "Finished codegen for target Streetplanner"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 "Finished codegen for target Streetplanner"
 .PHONY : CMakeFiles/Streetplanner.dir/codegen
 
 # clean rule for target.
@@ -190,7 +190,7 @@ CMakeFiles/update_translations.dir/clean:
 CMakeFiles/Streetplanner_lrelease.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_lrelease.dir\build.make CMakeFiles/Streetplanner_lrelease.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_lrelease.dir\build.make CMakeFiles/Streetplanner_lrelease.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=14 "Built target Streetplanner_lrelease"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=17 "Built target Streetplanner_lrelease"
 .PHONY : CMakeFiles/Streetplanner_lrelease.dir/all
 
 # Build rule for subdir invocation for target.
@@ -207,7 +207,7 @@ Streetplanner_lrelease: CMakeFiles/Streetplanner_lrelease.dir/rule
 # codegen rule for target.
 CMakeFiles/Streetplanner_lrelease.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_lrelease.dir\build.make CMakeFiles/Streetplanner_lrelease.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=14 "Finished codegen for target Streetplanner_lrelease"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=17 "Finished codegen for target Streetplanner_lrelease"
 .PHONY : CMakeFiles/Streetplanner_lrelease.dir/codegen
 
 # clean rule for target.
@@ -286,7 +286,7 @@ CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/clean:
 CMakeFiles/Streetplanner_autogen.dir/all: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_autogen.dir\build.make CMakeFiles/Streetplanner_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_autogen.dir\build.make CMakeFiles/Streetplanner_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=13 "Built target Streetplanner_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=16 "Built target Streetplanner_autogen"
 .PHONY : CMakeFiles/Streetplanner_autogen.dir/all
 
 # Build rule for subdir invocation for target.
@@ -303,7 +303,7 @@ Streetplanner_autogen: CMakeFiles/Streetplanner_autogen.dir/rule
 # codegen rule for target.
 CMakeFiles/Streetplanner_autogen.dir/codegen: CMakeFiles/Streetplanner_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Streetplanner_autogen.dir\build.make CMakeFiles/Streetplanner_autogen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=13 "Finished codegen for target Streetplanner_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\moham\Documents\Streetplanner\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug\CMakeFiles --progress-num=16 "Finished codegen for target Streetplanner_autogen"
 .PHONY : CMakeFiles/Streetplanner_autogen.dir/codegen
 
 # clean rule for target.

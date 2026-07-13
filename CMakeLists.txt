@@ -22,6 +22,8 @@ qt_add_executable(Streetplanner
     map.h map.cpp
     abstractmap.cpp abstractmap.h
     street.cpp street.h
+    addcitydialog.h addcitydialog.cpp addcitydialog.ui
+    mapio.cpp mapio.h mapionrw.cpp mapionrw.h
 )
 
 qt_add_translations(Streetplanner

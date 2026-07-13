@@ -200,6 +200,7 @@ Streetplanner_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Qt/6.9.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.9.0/mingw_64/include/QtWidgets/QDialog \
   C:/Qt/6.9.0/mingw_64/include/QtWidgets/QGraphicsTextItem \
   C:/Qt/6.9.0/mingw_64/include/QtWidgets/QGraphicsView \
   C:/Qt/6.9.0/mingw_64/include/QtWidgets/QMainWindow \
@@ -626,6 +627,9 @@ Streetplanner_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Users/moham/Documents/Streetplanner/CMakeLists.txt \
   C:/Users/moham/Documents/Streetplanner/abstractmap.cpp \
   C:/Users/moham/Documents/Streetplanner/abstractmap.h \
+  C:/Users/moham/Documents/Streetplanner/addcitydialog.cpp \
+  C:/Users/moham/Documents/Streetplanner/addcitydialog.h \
+  C:/Users/moham/Documents/Streetplanner/addcitydialog.ui \
   .qtc/package-manager/auto-setup.cmake \
   CMakeFiles/4.4.0/CMakeCXXCompiler.cmake \
   CMakeFiles/4.4.0/CMakeRCCompiler.cmake \
@@ -638,7 +642,13 @@ Streetplanner_autogen/timestamp: C:/Program\ Files/CMake/bin/cmake.exe \
   C:/Users/moham/Documents/Streetplanner/mainwindow.h \
   C:/Users/moham/Documents/Streetplanner/mainwindow.ui \
   C:/Users/moham/Documents/Streetplanner/map.cpp \
-  C:/Users/moham/Documents/Streetplanner/map.h
+  C:/Users/moham/Documents/Streetplanner/map.h \
+  C:/Users/moham/Documents/Streetplanner/mapio.cpp \
+  C:/Users/moham/Documents/Streetplanner/mapio.h \
+  C:/Users/moham/Documents/Streetplanner/mapionrw.cpp \
+  C:/Users/moham/Documents/Streetplanner/mapionrw.h \
+  C:/Users/moham/Documents/Streetplanner/street.cpp \
+  C:/Users/moham/Documents/Streetplanner/street.h
 
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/CMakeFindDependencyMacro.cmake:
@@ -766,6 +776,8 @@ C:/Qt/6.9.0/mingw_64/include/QtCore/qbytearray.h:
 C:/Qt/6.9.0/mingw_64/include/QtWidgets/QMainWindow:
 
 C:/Program\ Files/CMake/share/cmake-4.4/Modules/FindThreads.cmake:
+
+C:/Users/moham/Documents/Streetplanner/addcitydialog.cpp:
 
 C:/Qt/6.9.0/mingw_64/include/QtCore/qbasicatomic.h:
 
@@ -1125,6 +1137,8 @@ C:/Qt/6.9.0/mingw_64/include/QtCore/qstringmatcher.h:
 
 C:/Qt/6.9.0/mingw_64/include/QtCore/qstringtokenizer.h:
 
+C:/Users/moham/Documents/Streetplanner/addcitydialog.ui:
+
 C:/Qt/6.9.0/mingw_64/include/QtCore/qstringview.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
@@ -1311,6 +1325,8 @@ C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs.h:
 
 C:/Qt/6.9.0/mingw_64/include/QtGui/qwindowdefs_win.h:
 
+C:/Qt/6.9.0/mingw_64/include/QtWidgets/QDialog:
+
 C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/_mingw_off_t.h:
 
 C:/Qt/6.9.0/mingw_64/include/QtWidgets/QGraphicsTextItem:
@@ -1352,6 +1368,8 @@ C:/Users/moham/Documents/Streetplanner/main.cpp:
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tr1/bessel_function.tcc:
 
 C:/Qt/6.9.0/mingw_64/include/QtWidgets/qtwidgets-config.h:
+
+C:/Users/moham/Documents/Streetplanner/street.cpp:
 
 C:/Qt/6.9.0/mingw_64/include/QtWidgets/qtwidgetsexports.h:
 
@@ -1711,9 +1729,9 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nest
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h:
 
-C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
-
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
+
+C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/parse_numbers.h:
 
@@ -1751,6 +1769,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stre
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
 
+C:/Users/moham/Documents/Streetplanner/mapio.cpp:
+
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h:
@@ -1780,6 +1800,8 @@ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomi
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
+
+C:/Users/moham/Documents/Streetplanner/mapio.h:
 
 C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional:
 
@@ -1903,6 +1925,8 @@ C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h:
 
 C:/Users/moham/Documents/Streetplanner/abstractmap.cpp:
 
+C:/Users/moham/Documents/Streetplanner/addcitydialog.h:
+
 .qtc/package-manager/auto-setup.cmake:
 
 CMakeFiles/4.4.0/CMakeRCCompiler.cmake:
@@ -1916,3 +1940,9 @@ C:/Users/moham/Documents/Streetplanner/mainwindow.h:
 C:/Users/moham/Documents/Streetplanner/map.cpp:
 
 C:/Users/moham/Documents/Streetplanner/map.h:
+
+C:/Users/moham/Documents/Streetplanner/mapionrw.cpp:
+
+C:/Users/moham/Documents/Streetplanner/mapionrw.h:
+
+C:/Users/moham/Documents/Streetplanner/street.h:

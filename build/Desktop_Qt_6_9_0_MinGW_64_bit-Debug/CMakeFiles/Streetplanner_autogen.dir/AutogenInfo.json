@@ -356,6 +356,12 @@
 			null
 		],
 		[
+			"C:/Users/moham/Documents/Streetplanner/addcitydialog.h",
+			"MU",
+			"EWIEGA46WW/moc_addcitydialog.cpp",
+			null
+		],
+		[
 			"C:/Users/moham/Documents/Streetplanner/city.h",
 			"MU",
 			"EWIEGA46WW/moc_city.cpp",
@@ -371,6 +377,18 @@
 			"C:/Users/moham/Documents/Streetplanner/map.h",
 			"MU",
 			"EWIEGA46WW/moc_map.cpp",
+			null
+		],
+		[
+			"C:/Users/moham/Documents/Streetplanner/mapio.h",
+			"MU",
+			"EWIEGA46WW/moc_mapio.cpp",
+			null
+		],
+		[
+			"C:/Users/moham/Documents/Streetplanner/mapionrw.h",
+			"MU",
+			"EWIEGA46WW/moc_mapionrw.cpp",
 			null
 		],
 		[
@@ -455,10 +473,17 @@
 	"SOURCES" : 
 	[
 		[ "C:/Users/moham/Documents/Streetplanner/abstractmap.cpp", "MU", null ],
+		[
+			"C:/Users/moham/Documents/Streetplanner/addcitydialog.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/moham/Documents/Streetplanner/city.cpp", "MU", null ],
 		[ "C:/Users/moham/Documents/Streetplanner/main.cpp", "MU", null ],
 		[ "C:/Users/moham/Documents/Streetplanner/mainwindow.cpp", "MU", null ],
 		[ "C:/Users/moham/Documents/Streetplanner/map.cpp", "MU", null ],
+		[ "C:/Users/moham/Documents/Streetplanner/mapio.cpp", "MU", null ],
+		[ "C:/Users/moham/Documents/Streetplanner/mapionrw.cpp", "MU", null ],
 		[ "C:/Users/moham/Documents/Streetplanner/street.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
